@@ -1,0 +1,8 @@
+#include <swag>
+
+using namespace YOLO;
+
+int main()
+{
+return 1/0;
+}
